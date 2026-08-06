@@ -1,35 +1,37 @@
 # Base image: Ruby with necessary dependencies for Jekyll
 FROM ruby:3.2
 
-# Install dependencies
+# Install system dependencies used by Jekyll, npm, and Codex CLI.
 RUN apt-get update && apt-get install -y \
     build-essential \
     nodejs \
+    npm \
+    curl \
+    ca-certificates \
     && rm -rf /var/lib/apt/lists/*
 
-
-# Create a non-root user with UID 1000
+# Create the non-root Codespaces user and use Bash for interactive terminals.
 RUN groupadd -g 1000 vscode && \
-    useradd -m -u 1000 -g vscode vscode
+    useradd -m -u 1000 -g vscode -s /bin/bash vscode
 
-# Set the working directory
+ENV HOME=/home/vscode
+ENV PATH="/home/vscode/.local/bin:${PATH}"
+
 WORKDIR /usr/src/app
-
-# Set permissions for the working directory
 RUN chown -R vscode:vscode /usr/src/app
 
-# Switch to the non-root user
 USER vscode
 
-# Copy Gemfile into the container (necessary for `bundle install`)
-COPY Gemfile ./
+# Install Codex CLI for the vscode user so it is present after every rebuild.
+RUN curl -fsSL https://chatgpt.com/codex/install.sh -o /tmp/install-codex.sh \
+    && sh /tmp/install-codex.sh \
+    && rm /tmp/install-codex.sh \
+    && codex --version
 
+# Install the Ruby dependencies used by the site.
+COPY --chown=vscode:vscode Gemfile ./
+RUN gem install connection_pool:2.5.0 \
+    && gem install bundler:2.3.26 \
+    && bundle install
 
-
-# Install bundler and dependencies
-RUN gem install connection_pool:2.5.0
-RUN gem install bundler:2.3.26
-RUN bundle install
-
-# Command to serve the Jekyll site
 CMD ["jekyll", "serve", "-H", "0.0.0.0", "-w", "--config", "_config.yml,_config_docker.yml"]
