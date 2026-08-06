@@ -3,7 +3,15 @@
     "dockerComposeFile": "../docker-compose.yaml",
     "service": "jekyll-site",
     "remoteEnv": {
-        "VSCODE_SERVER_DIR": "/home/vscode/.vscode-server"
+        "VSCODE_SERVER_DIR": "/home/vscode/.vscode-server",
+        "PATH": "/home/vscode/.local/bin:${containerEnv:PATH}"
+    },
+    "customizations": {
+        "vscode": {
+            "settings": {
+                "terminal.integrated.defaultProfile.linux": "bash"
+            }
+        }
     },
     "runArgs": [
         "--user",
@@ -11,5 +19,5 @@
     ],
     "workspaceFolder": "/usr/src/app",
     "remoteUser": "vscode",
-    "forwardPorts": [4000] // Add port forwarding
+    "forwardPorts": [4000]
 }
