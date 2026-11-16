@@ -3,6 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
+section_style: chapters
 redirect_from:
   - /resume
 ---
@@ -19,15 +20,21 @@ Department of Mathematics and Computer Science · GPA: 4.21/4.3
 
 ## Research
 
+### Papers in Preparation
+
 **Covering a Hexagon with Seven Unit Triangles** — *Mar 2025 – Present*<br>
-Together with Jineon Baek (KIAS)
+Together with Jineon Baek (KIAS)<br>
+Manuscript in preparation.
 
 **Hitting a Subcubic Immersion** — *Jan 2025 – Present*<br>
-Together with Sebastian Wiederrecht (KAIST), Eunjung Kim (KAIST)
+Together with Sebastian Wiederrecht (KAIST), Eunjung Kim (KAIST)<br>
+Manuscript in preparation.
 
-**Independent re-derivation of key results in *Augmentation Problems*** — *May 2023*<br>
-Kapali P. Eswaran and R. Endre Tarjan<br>
-*SIAM Journal on Computing* 1976 5:4, 653–665
+### High School Research Projects
+
+**Independent re-derivation of key results in “[Augmentation Problems](https://doi.org/10.1137/0205044)”** — *May 2023*<br>
+Original paper by Kapali P. Eswaran and R. Endre Tarjan.<br>
+*SIAM Journal on Computing* 5(4), 653–665 (1976).
 
 **Analysis of Time Series using Visibility Graph** — *Mar 2023 – Dec 2023*<br>
 Together with 4 students from KSA of KAIST and Kamnoetvidya Science Academy
@@ -36,6 +43,12 @@ Together with 4 students from KSA of KAIST and Kamnoetvidya Science Academy
 
 **3D Planar Object Segmentation of Point Clouds** — *Mar 2022 – Dec 2022*<br>
 Together with Dongeon Kim (KSA of KAIST)
+
+### AI-Assisted Contributions
+
+**Fixed-field Bounds for Matroid Correlation**<br>
+A small contribution on fixed-field matroid correlation bounds, developed with AI assistance.<br>
+[Repository](https://github.com/dylan0301/Punctured-projective-block-affine-fibre-matroids)
 
 ## Research Internship
 

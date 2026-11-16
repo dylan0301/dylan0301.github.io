@@ -27,6 +27,37 @@
   }
 }
 
+.archive--chapters {
+  > h2,
+  > h3 {
+    color: var(--global-text-color);
+  }
+
+  > h2 {
+    margin: 2rem 0 1rem;
+    padding-bottom: 0.65rem;
+    border-bottom: 2px solid var(--global-dark-border-color);
+
+    @include breakpoint($small) {
+      margin-top: 3rem;
+    }
+
+    &:first-of-type {
+      margin-top: 1.5rem;
+    }
+  }
+
+  > h3 {
+    margin: 1.75rem 0 0.75rem;
+    padding-inline-start: 0.65rem;
+    border-inline-start: 3px solid var(--global-base-color);
+  }
+
+  > h2 + h3 {
+    margin-top: 1.25rem;
+  }
+}
+
 .archive__subtitle {
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
