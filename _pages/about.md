@@ -26,7 +26,7 @@ Department of Mathematics and Computer Science
 ## Research Experience
 
 **Research Intern, Yonsei University** — *Mar 2025 – Feb 2026*<br>
-Advisor: Joonkyung Lee (Yonsei University)
+Advisor: [Joonkyung Lee](https://sites.google.com/site/joonkyungleemaths/) (KIAS)
 
 ## Leadership
 

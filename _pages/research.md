@@ -26,12 +26,15 @@ Original paper by Kapali P. Eswaran and R. Endre Tarjan.<br>
 
 **Analysis of Time Series using Visibility Graph** — *Mar 2023 – Dec 2023*<br>
 Together with Yongbin Cho and Junhyuk Huh (KSA of KAIST), and Nitchawee Piromchotesiri and Thanwa Ruchakhom (Kamnoetvidya Science Academy).<br>
-Advisor: Jérôme Tambour (KSA of KAIST).
+Supervisor: Jérôme Tambour (KSA of KAIST).
 
-**On the Distribution of Inversion in values of Multiplicative Functions** — *Mar 2023 – Dec 2023*
+**On the Distribution of Inversion in values of Multiplicative Functions** — *Mar 2023 – Dec 2023*<br>
+Supervisor: Jinhee Yi (KSA of KAIST).
 
 **3D Planar Object Segmentation of Point Clouds** — *Mar 2022 – Dec 2022*<br>
-Together with Dongeon Kim (KSA of KAIST)
+Together with Dongeon Kim (KSA of KAIST)<br>
+Supervisor: Hyoungseok Kim (Dongeui University).<br>
+Co-supervisor: Yongju Kim (KSA of KAIST).
 
 ## AI-Assisted Contributions
 
