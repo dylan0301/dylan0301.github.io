@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student at the Korea Advanced Institute of Science and Technology (KAIST), studying computer science and mathematics. My interests include combinatorics, graph theory, and algorithms.
+I am an undergraduate student at the Korea Advanced Institute of Science and Technology (KAIST), studying computer science and mathematics. 
 
 My [current research](/research/) is on graph immersions and geometric covering problems.
 
@@ -23,12 +23,12 @@ School of Computing, Department of Mathematical Sciences
 **Korea Science Academy of KAIST (KSA of KAIST)** — *Mar 2021 – Feb 2024*<br>
 Department of Mathematics and Computer Science
 
-## Research Experience
+## Positions
 
 **Research Intern, Yonsei University** — *Mar 2025 – Feb 2026*<br>
 Advisor: [Joonkyung Lee](https://sites.google.com/site/joonkyungleemaths/) (KIAS)
 
-## Leadership
+## Academic Service
 
 **Vice President** — *Jan 2025 – Dec 2025*<br>
 KAIST Mathematical Problem Solving Group
