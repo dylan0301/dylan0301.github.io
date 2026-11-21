@@ -25,7 +25,8 @@ Original paper by Kapali P. Eswaran and R. Endre Tarjan.<br>
 *SIAM Journal on Computing* 5(4), 653–665 (1976).
 
 **Analysis of Time Series using Visibility Graph** — *Mar 2023 – Dec 2023*<br>
-Together with 4 students from KSA of KAIST and Kamnoetvidya Science Academy
+Together with Yongbin Cho and Junhyuk Huh (KSA of KAIST), and Nitchawee Piromchotesiri and Thanwa Ruchakhom (Kamnoetvidya Science Academy).<br>
+Advisor: Jérôme Tambour (KSA of KAIST).
 
 **On the Distribution of Inversion in values of Multiplicative Functions** — *Mar 2023 – Dec 2023*
 
