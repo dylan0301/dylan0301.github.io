@@ -1,20 +1,24 @@
 ---
 layout: archive
-title: "Conferences, Workshops & Schools"
+title: "Academic Events"
 permalink: /events/
 author_profile: true
 section_style: chapters
 ---
 
+## 2026
+
+**[2026 Winter Korean Student Combinatorics Workshop](https://kscw.combinatorics.kr/2026w/)**, Yeosu, Korea — *Feb 2026*
+
 ## 2025
 
-**KIAS Combinatorics Workshop**, KIAS — *Dec 2025*
+**KIAS Combinatorics Workshop**, Busan, Korea — *Dec 2025*
 
 **2025 Fall Meeting, Korean Mathematical Society** — *Oct 2025*
 
 **KIAS–KAIST Workshop on Current Challenges in Mathematics**, KIAS — *Aug 2025*
 
-**2025 Korean Student Combinatorics Workshop** — *Aug 2025* · <a href="/talks/#talk-hexagon" aria-label="Talk at the 2025 Korean Student Combinatorics Workshop">Talk</a>
+**[2025 Korean Student Combinatorics Workshop](https://kscw.combinatorics.kr/2025/schedule)** — *Aug 2025* · <a href="/talks/#talk-hexagon" aria-label="Talk at the 2025 Korean Student Combinatorics Workshop">Talk</a>
 
 **2025 Combinatorics Workshop**, IBS Discrete Mathematics Group — *Aug 2025*
 
