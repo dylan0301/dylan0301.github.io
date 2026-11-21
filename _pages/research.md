@@ -9,12 +9,12 @@ section_style: chapters
 ## Papers in Preparation
 
 **Covering a Hexagon with Seven Unit Triangles** — *Mar 2025 – Present*<br>
-Together with Jineon Baek (KIAS)<br>
-Manuscript in preparation.
+With Jineon Baek (KIAS).<br>
+Can seven open equilateral triangles of side length one cover a regular hexagon of the same side length? We show that they cannot.
 
 **Hitting a Subcubic Immersion** — *Jan 2025 – Present*<br>
-Together with Sebastian Wiederrecht (KAIST), Eunjung Kim (KAIST)<br>
-Manuscript in preparation.
+With Sebastian Wiederrecht and Eunjung Kim (KAIST).<br>
+We study how to hit every immersion of a fixed subcubic graph in a given graph.
 
 ## High School Research Projects
 
@@ -34,10 +34,9 @@ Together with Dongeon Kim (KSA of KAIST)
 
 ## AI-Assisted Contributions
 
-**Fixed-field Bounds for Matroid Correlation**
+**Fixed-field Bounds for Matroid Correlation**<br>
+A small contribution developed with AI assistance. An explicit construction gives the lower bound ᾱ(𝔽<sub>q</sub>) ≥ 4<i>q</i>/(3<i>q</i> + 1) for every prime power *q*.
 
-A small contribution on fixed-field matroid correlation bounds, developed with AI assistance. The repository presents an explicit construction yielding the lower bound ᾱ(𝔽<sub>q</sub>) ≥ 4q/(3q + 1) for every prime power q.
+Computational examples over GF(4), GF(5), and GF(7) also appear in the record history for matroid correlation constants.
 
-Separately, computational examples over GF(4), GF(5), and GF(7) held field-specific records and remain listed in the Matroid Correlation Constants record history.
-
-[Repository](https://github.com/dylan0301/Punctured-projective-block-affine-fibre-matroids) · Records: [GF(4)](https://matroid-correlation-constants.icarm.cloud/matroid/14) · [GF(5)](https://matroid-correlation-constants.icarm.cloud/matroid/15) · [GF(7)](https://matroid-correlation-constants.icarm.cloud/matroid/16)
+[Repository](https://github.com/dylan0301/Punctured-projective-block-affine-fibre-matroids) · Record history: [GF(4)](https://matroid-correlation-constants.icarm.cloud/matroid/14) · [GF(5)](https://matroid-correlation-constants.icarm.cloud/matroid/15) · [GF(7)](https://matroid-correlation-constants.icarm.cloud/matroid/16)

@@ -7,8 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-A short index of the public pages on this site:
-
-- [Home]({{ base_path }}/)
-- [CV]({{ base_path }}/cv/)
+{% for link in site.data.navigation.main %}
+- [{{ link.title }}]({{ base_path }}{{ link.url }})
+{% endfor %}
 - [XML sitemap]({{ base_path }}/sitemap.xml)

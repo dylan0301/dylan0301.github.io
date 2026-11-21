@@ -5,7 +5,14 @@
 # prevent it from being included in the site.
 
 main:
+  - title: "About"
+    url: /
   - title: "Research"
     url: /research/
-  - title: "CV"
-    url: /cv/
+  - title: "Talks"
+    url: /talks/
+  - title: "Events"
+    url: /events/
+  - title: "CV (PDF)"
+    url: /files/Jeewon-Kim-CV.pdf
+    new_tab: true

@@ -28,6 +28,10 @@
 }
 
 .archive--chapters {
+  :target {
+    scroll-margin-top: $masthead-height;
+  }
+
   > h2,
   > h3 {
     color: var(--global-text-color);
