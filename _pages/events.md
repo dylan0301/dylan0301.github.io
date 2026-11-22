@@ -12,7 +12,7 @@ section_style: chapters
 
 ## 2025
 
-**KIAS Combinatorics Workshop**, Busan, Korea — *Dec 2025*
+**35th KIAS Combinatorics Workshop**, Busan, Korea — *Dec 2025*
 
 **2025 Fall Meeting, Korean Mathematical Society** — *Oct 2025*
 
