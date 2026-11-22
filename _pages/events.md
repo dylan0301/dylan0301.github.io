@@ -8,6 +8,8 @@ section_style: chapters
 
 ## 2026
 
+**[Thematic Program on AI and Mathematics: Algebra, Combinatorics & Topology](https://symposia.kias.re.kr/AI-Math2026/page/ai-math-act-2026)**, KIAS — *Aug 2026*
+
 **[2026 Winter Korean Student Combinatorics Workshop](https://kscw.combinatorics.kr/2026w/)**, Yeosu, Korea — *Feb 2026*
 
 ## 2025
